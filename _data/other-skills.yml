@@ -1,0 +1,15 @@
+- name: LaTeX
+  percentage: 90
+  color: 
+
+- name: MS Office
+  percentage: 90
+  color: info
+
+- name: Github/Git
+  percentage: 50
+  color: danger
+
+- name: Notion
+  percentage: 90
+  color: success
