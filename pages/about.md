@@ -11,7 +11,7 @@ Hi! Thank you for visiting my website. Let me introduce myself. My name is Navan
 
 I have always wanted to make a website. Having a personal website can benefit one's career. It's a good place to showcase your skills and interests. I want to put some content on my area of interest. I will be posting mostly about astronomy, science, productivity apps and websites, and programming. This is just a hobby for me, I am not going to put my primary focus on this. This website is made by jekyll and hosted by Github.  
 
-If you want to contact me, I suggest you try mailing me. I do have accounts on all social media platforms. But most of them are inactive now. I am keeping myself away from social media because of its dark sides like addictive use, privacy abuse, and fake news. I recommend you reflect on your social media consumption and find a healthy relationship with it.
+If you want to contact me, I suggest you try mailing me ([npknavaneeth@gmail.com](mailto:npknavaneeth@gmail.com)). I do have accounts on all social media platforms. But most of them are inactive now. I am keeping myself away from social media because of its dark sides like addictive use, privacy abuse, and fake news. I recommend you reflect on your social media consumption and find a healthy relationship with it.
  
 <h2>What I'm doind now</h2>
 I'm going to update this later!
