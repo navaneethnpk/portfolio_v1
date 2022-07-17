@@ -1,6 +1,6 @@
 ---
 title: Exoplanets
-tags: [curation, astronomy]
+tags: [astronomy, volume]
 style: border                               #border, fill, 
 color: danger                           #primary, secondary, success, danger, warning, info, light, dark
 description: ASTROINFO [Post-1]
@@ -15,13 +15,19 @@ button{
   font-size: 40px;
   margin: 10px;
 }
-#container{
+#container2{
   text-align: center;
+}
+.slider-button{
+  border: none;
+  outline: none;
+  z-index: 2;
+  top: 50%;
 }
 </style>
 <body>
 
-<div class="container">
+<div class="container1">
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-1.png" width="300">
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-2.png" width="300">
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-3.png" width="300">
@@ -30,9 +36,9 @@ button{
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-6.png" width="300">
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-7.png" width="300">
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-8.png" width="300">
-  <div id="container">
-    <button type="button" class="button" onclick="plusDivs(-1)">&#10094;</button>
-    <button type="button" class="button" onclick="plusDivs(1)">&#10095;</button>
+  <div id="container2">
+    <button type="button" class="slider-button" onclick="plusDivs(-1)">&#10094;</button>
+    <button type="button" class="slider-button" onclick="plusDivs(1)">&#10095;</button>
   </div>
 </div>
 
