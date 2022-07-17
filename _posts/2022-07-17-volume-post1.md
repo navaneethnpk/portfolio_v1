@@ -11,6 +11,13 @@ comments: false
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .mySlides {display:none;}
+button{
+  font-size: 40px;
+  margin: 10px;
+}
+#container{
+  text-align: center;
+}
 </style>
 <body>
 
@@ -23,9 +30,10 @@ comments: false
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-6.png" width="300">
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-7.png" width="300">
   <img class="mySlides" src="../assets/img-volume/post-1/EXOPLANETS-8.png" width="300">
-
-  <button type="button" class="button" onclick="plusDivs(-1)">&#10094;</button>
-  <button type="button" class="button" onclick="plusDivs(1)">&#10095;</button>
+  <div id="container">
+    <button type="button" class="button" onclick="plusDivs(-1)">&#10094;</button>
+    <button type="button" class="button" onclick="plusDivs(1)">&#10095;</button>
+  </div>
 </div>
 
 <script>
