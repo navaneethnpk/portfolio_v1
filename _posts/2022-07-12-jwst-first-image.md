@@ -11,8 +11,7 @@ On July 11 2022, US President Joe Biden unveiled one of the James Webb Space Tel
 
 JWST is the most powerful telescope launched into space to conduct infrared astronomy. After launching on 25 December 2021, JWST was undergoing testing and alignment until June 2022. JWST is built by NASA (National Aeronautics and Space Administration), in partnership with ESA (European Space Agency) and CSA (Canadian Space Agency).  
 
-<img src="../assets/img-blog/2-jwst.jpg" alt="JWST First Image" width="500" height="500">
-<h6 style='text-align: center; color: SlateGray;'>Credit: NASA, ESA, CSA and STScI</h6>
+{% include elements/figure.html image="../assets/img-blog/2-jwst.jpg" caption="Credit: NASA, ESA, CSA and STScI" %}
 
 The image covers a patch of sky roughly the size of a grain of sand held at arm's length by someone standing on Earth.
 
