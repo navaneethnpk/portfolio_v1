@@ -1,7 +1,7 @@
 ---
 title: JWST First Image
 tags: [curation, astronomy]
-style: border                               #border, fill, 
+style: fill                               #border, fill, 
 color: primary                           #primary, secondary, success, danger, warning, info, light, dark
 description: 
 external_url:  

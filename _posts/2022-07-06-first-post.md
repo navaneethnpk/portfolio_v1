@@ -1,8 +1,8 @@
 ---
 title: My Favorite Quotes
 tags: [random]
-style: border                               #border, fill, 
-color: warning                              #primary, secondary, success, danger, warning, info, light, dark
+style: fill                          #border, fill, 
+color: danger                        #primary, secondary, success, danger, warning, info, light, dark
 description: This is my first blog post.
 external_url: 
 comments: false
