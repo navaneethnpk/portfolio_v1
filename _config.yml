@@ -23,23 +23,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Navaneeth P K
-  image             : assets/profile-circle2.png
-# behance           : npknavaneeth@gmail.com
-# dribbble          : your_username
+  image             : assets/profile-circle3.png
   email             : npknavaneeth@gmail.com
-  facebook          : navaneethnpk
-  github            : navaneethnpk
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
+  twitter           : navaneeth_npk
   linkedin          : navaneethnpk
+# facebook          : navaneethnpk
+# github            : navaneethnpk
+# behance           : navaneethnpk
+# dribbble          : navaneethnpk
+# instagram         : navaneeth_npk
+# gitlab            : your_username
+# kaggle            : your_username
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : navaneeth_npk
+# twitch            : navaneethnpk
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
