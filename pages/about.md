@@ -18,8 +18,8 @@ If you want to contact me, I suggest you try mailing me. I do have accounts on a
 
 <h2 style='color: Turquoise;'>What I'm doing now</h2>
 + Preparing for PhD entrance exams.
-+ Learning about Machine Learning and improving python knowledge
-+ Trying for a part time/work from home job in EdTech area.
++ Improving my programming and design knowledge and skills.
++ Doing a part-time/work from home job in EdTech area.
 
 <p style='text-align: right; color:	SlateGray;'><i>Last Updated: 11-07-2022</i></p>
 <hr>
