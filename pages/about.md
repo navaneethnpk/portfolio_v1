@@ -21,7 +21,7 @@ If you want to contact me, I suggest you try emailing me. I do have accounts on 
 + Improving my programming and design knowledge and skills.
 + Doing a part-time/work from home job in EdTech area.
 
-<p style='text-align: right; color:	SlateGray;'><i>Last Updated: 11-07-2022</i></p>
+<p style='text-align: right; color:	SlateGray;'><i>Last Updated: 11-July-2022</i></p>
 <hr>
 
 <div class="row">
