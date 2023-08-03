@@ -14,12 +14,11 @@ I have always wanted to make a website. Having a personal website can benefit on
 If you want to contact me, I suggest you try emailing me. I do have accounts on all social media platforms. But most of them are inactive now. I am keeping myself away from social media because of its dark sides like addictive use, privacy abuse, and fake news. I recommend you reflect on your social media consumption and find a healthy relationship with it.
 
 <b>Get in touch with me: </b>
-[Mail](mailto:npknavaneeth@gmail.com)  |  [Facebook](https://www.facebook.com/navaneethnpk)  |  [Twitter](https://twitter.com/navaneeth_npk)  |  [Instagram](https://www.instagram.com/navaneeth_npk)  |  [LinkedIn](https://www.linkedin.com/in/navaneethnpk)  |  [Github](https://github.com/navaneethnpk)  |  [Reddit](https://www.reddit.com/user/navaneeth_npk) 
-
+[Mail](mailto:navaneethrasikapriya@gmail.com), [Twitter](https://twitter.com/navaneeth_npk), [Github](https://github.com/navaneethnpk)
 <h2 style='color: Turquoise;'>What I'm doing now</h2>
 + Preparing for PhD entrance exams.
-+ Improving my programming and design knowledge and skills.
 + Working as a Scientific Trainee (Astrosat Project) at IUCAA, Pune.
 
-<p style='text-align: right; color:	SlateGray;'><i>Last Updated: 29-Apr-2023</i></p>
+<p style='text-align: right; color:	SlateGray;'><i>Last Updated: 03-Aug-2023</i></p>
 <hr>
+<p style='text-align: center; color: indianred;'>** I'm currently in the process of creating a new website from scratch, and learning web development. **</p>
