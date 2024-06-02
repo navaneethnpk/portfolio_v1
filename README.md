@@ -1,2 +1,1 @@
-This is my personal website.   
-www.navaneethpk.com
+This is my personal website (v1)
